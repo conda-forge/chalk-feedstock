@@ -15,12 +15,15 @@ Terminal string styling done right
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/chalk-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/chalk-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/chalk-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/chalk-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/chalk/badges/version.svg)](https://anaconda.org/conda-forge/chalk)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/chalk/badges/downloads.svg)](https://anaconda.org/conda-forge/chalk)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-chalk-green.svg)](https://anaconda.org/conda-forge/chalk) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/chalk.svg)](https://anaconda.org/conda-forge/chalk) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/chalk.svg)](https://anaconda.org/conda-forge/chalk) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/chalk.svg)](https://anaconda.org/conda-forge/chalk) |
 
 Installing chalk
 ================
