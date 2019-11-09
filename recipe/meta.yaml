@@ -1,6 +1,6 @@
 {% set name = "chalk" %}
-{% set version = "2.4.2" %}
-{% set sha256 = "33b6abb8847ca83fa10881c4cd37a50682871f0e67bdad4d23e6ca6b39a2c19d" %}
+{% set version = "3.0.0" %}
+{% set sha256 = "2202478ed680553ae272b8063c282f04c5dbac3378eb0396ba93f847a0a20871" %}
 
 package:
   name: {{ name|lower }}
