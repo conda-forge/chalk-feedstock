@@ -1,6 +1,6 @@
 {% set name = "chalk" %}
-{% set version = "3.0.0" %}
-{% set sha256 = "2202478ed680553ae272b8063c282f04c5dbac3378eb0396ba93f847a0a20871" %}
+{% set version = "4.1.2" %}
+{% set sha256 = "000e3b3c3e6715c1282064f92679b4af344f93fac390f799388140999d15ee71" %}
 
 package:
   name: {{ name|lower }}
@@ -20,20 +20,20 @@ build:
 requirements:
   build:
     - nodejs
-  
+
 test:
   commands:
     - npm list -g chalk
   requires:
     - nodejs
-   
+
 
 about:
   home: https://github.com/chalk/chalk
   license: MIT
   license_family: MIT
   license_file: license
-  summary: 'Terminal string styling done right'
+  summary: Terminal string styling done right
   description: |
     Terminal string styling done right
   doc_url: https://github.com/chalk/chalk
